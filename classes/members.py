@@ -4,6 +4,9 @@ class Resident:
         self.pref = []
         self.matched = None
         self.prefPtr = 0
+        self.lq = 0
+        self.hq = 0
+        self.classes = []
 
     def getIndex(self):
         return self.name[1:]
@@ -51,3 +54,16 @@ class Edge:
         self.name = 'x_' + r_ind + '_' + h_ind
         self.r_ind = r_ind
         self.h_ind = h_ind
+
+class Classification:
+    def __init__(self):
+        self.class_list = []
+        self.cap = 0
+
+    def printClass(self):
+        print '{(',
+        for i, e in enumerate(self.class_list):
+            if(i != len(self.class_list)-1):
+                print e + ' ,',
+            else:
+                print e + ' ): ' + str(self.cap) +'}',

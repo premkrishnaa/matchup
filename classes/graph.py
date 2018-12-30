@@ -1,10 +1,99 @@
 from members import *
+from random import randint
+from random import sample
+from random import seed
+from datetime import datetime
+
+seed(datetime.now())
 
 class Graph:
     def __init__(self):
         self.residents = [];
         self.hospitals = [];
         self.edges = [];
+
+    def initResidentCapacities(self):
+        res = self.residents
+        for r in res:
+            n = len(r.pref)
+            r.hq = randint(1, n)
+
+    def initResidentClass(self, res):
+        n = len(res.pref)
+        rpref = []
+        for h in res.pref:
+            rpref.append(h.name)
+        used_classes = []
+        tot_classes = randint(0, n)
+        ct = 0
+        while(n > 1 and ct < tot_classes):
+            cur_class_size = randint(2, n)
+            cur_class = sample(rpref, cur_class_size)
+            if(set(cur_class) not in used_classes):
+                c = Classification()
+                used_classes.append(set(cur_class))
+                c.class_list = cur_class
+                c.cap = randint(1, cur_class_size-1)
+                res.classes.append(c)
+                ct += 1;
+
+    def initAllResidentClass(self):
+        for res in self.residents:
+            self.initResidentClass(res)
+
+    def printFormat(self):
+        print('@PartitionA')
+        res = self.residents
+        rlen = len(res)
+        for i, r in enumerate(res):
+            if(i != rlen-1):
+                print r.name + ' (' + str(r.hq) + '),',
+            else:
+                print r.name + ' (' + str(r.hq) + ') ;'
+        print('@End\n')
+
+        print('@PartitionB')
+        hosp = self.hospitals
+        hlen = len(hosp)
+        for i, h in enumerate(hosp):
+            if(i != hlen-1):
+                print h.name + ' (' + str(h.hq) + '),',
+            else:
+                print h.name + ' (' + str(h.hq) + ') ;'
+        print('@End\n')
+
+        print('@PreferenceListsA')
+        for r in res:
+            print r.name + ' :',
+            for i, h in enumerate(r.pref):
+                if(i != len(r.pref)-1):
+                    print h.name + ',',
+                else:
+                    print h.name + ' ;'
+        print('@End\n')
+
+        print('@PreferenceListsB')
+        for h in hosp:
+            print h.name + ' :',
+            for i, r in enumerate(h.pref):
+                if(i != len(h.pref)-1):
+                    print r.name + ',',
+                else:
+                    print r.name + ' ;'
+        print('@End\n')
+
+        print('@ClassificationA')
+        for r in res:
+            if(len(r.classes) > 0):
+                print r.name + ' :',
+                for i, c in enumerate(r.classes):
+                    if(i != len(r.classes)-1):
+                        c.printClass() 
+                        print ',',
+                    else:
+                        c.printClass() 
+                        print ';'
+        print('@End')
 
     def printResident(self, name):
         for r in self.residents:
@@ -45,6 +134,7 @@ class Graph:
 
     def getTotalResidents(self):
         return len(self.residents)
+
 
 def createGraph(path, hr=0):
     g = Graph()
