@@ -1,0 +1,787 @@
+Removing Preference since it exceeds credit limit. Student : LF16ZEGW - Course : DNITCO$outside
+Removing Preference since it exceeds credit limit. Student : LF16ZEGW - Course : DNMHEO$outside
+Removing Preference since it exceeds credit limit. Student : LF16ZEGW - Course : DNPUEO$outside
+Removing Preference since it exceeds credit limit. Student : LF16JIDX - Course : DNDIKQ$outside
+Removing Preference since it exceeds credit limit. Student : LF16IOLK - Course : DDVQGR$outside
+Removing Preference since it exceeds credit limit. Student : LF16XMBT - Course : LFGYHL$inside
+Removing Preference since it exceeds credit limit. Student : LF16XMBT - Course : LFGYHL$outside
+Removing Preference since it exceeds credit limit. Student : LF16XMBT - Course : DNITCO$outside
+Removing Preference since it exceeds credit limit. Student : LF16XMBT - Course : DNMHEO$outside
+Removing Preference since it exceeds credit limit. Student : LF16XMBT - Course : DNPUEO$outside
+Removing Preference since it exceeds credit limit. Student : LF16XMBT - Course : DNDIKQ$outside
+Removing Preference since it exceeds credit limit. Student : LF16XMBT - Course : DNMIGT$outside
+Removing Preference since it exceeds credit limit. Student : DS16EHSY - Course : DSKPSV$inside
+Removing Preference since it exceeds credit limit. Student : DS16EHSY - Course : DSKPSV$outside
+Removing Preference since it exceeds credit limit. Student : DS16EHSY - Course : TJYMUE$outside
+Removing Preference since it exceeds credit limit. Student : DS16EHSY - Course : DNSVRR$outside
+Removing Preference since it exceeds credit limit. Student : DS16EHSY - Course : QQIBYU$outside
+Repeated Course in course list : PGMRBA$inside. Repeated Course is being removed. 
+Repeated Course in course list : PGMRBA$outside. Repeated Course is being removed. 
+Repeated Course in course list : TCAYCF$inside. Repeated Course is being removed. 
+Repeated Course in course list : TCAYCF$outside. Repeated Course is being removed. 
+Slot Clash of core course NMJFNU$inside and elective course DNOENI$outside for student KJ16ROJR. DNOENI$outside removed 
+Slot Clash of core course NMUGJK$inside and elective course UFFIIQ$outside for student KJ17YZBF. UFFIIQ$outside removed 
+Slot Clash of core course NMUGJK$inside and elective course UFFIIQ$outside for student KJ17NZNB. UFFIIQ$outside removed 
+Slot Clash of core course NMUGJK$inside and elective course UFFIIQ$outside for student KJ17BQCG. UFFIIQ$outside removed 
+Slot Clash of core course NMUGJK$inside and elective course UFFIIQ$outside for student KJ17MDMG. UFFIIQ$outside removed 
+Slot Clash of core course NMUGJK$inside and elective course UFFIIQ$outside for student KJ17DXAX. UFFIIQ$outside removed 
+Slot Clash of core course NMUGJK$inside and elective course UFFIIQ$outside for student KJ17RQBJ. UFFIIQ$outside removed 
+Slot Clash of core course NMRJCZ$inside and elective course SFIPIU$outside for student KJ17WXVA. SFIPIU$outside removed 
+Slot Clash of core course NMUGJK$inside and elective course UFFIIQ$outside for student KJ17WXVA. UFFIIQ$outside removed 
+Slot Clash of core course NMUGJK$inside and elective course UFFIIQ$outside for student KJ17JYCX. UFFIIQ$outside removed 
+Slot Clash of core course NMUGJK$inside and elective course UFFIIQ$outside for student KJ17AKNO. UFFIIQ$outside removed 
+Slot Clash of core course NMIRWN$inside and elective course UFXJYO$outside for student KJ17FLHI. UFXJYO$outside removed 
+Slot Clash of core course NMUGJK$inside and elective course UFFIIQ$outside for student KJ17HYNV. UFFIIQ$outside removed 
+Slot Clash of core course NMUGJK$inside and elective course UFFIIQ$outside for student KJ17CBEZ. UFFIIQ$outside removed 
+Slot Clash of core course DNYMGM$inside and elective course UFWLTQ$outside for student VL15YHXT. UFWLTQ$outside removed 
+Slot Clash of core course TCGMPL$inside and elective course PGGCLT$inside for student VL16CPJW. PGGCLT$inside removed 
+Slot Clash of core course TCGMPL$inside and elective course PGGCLT$outside for student VL16CPJW. PGGCLT$outside removed 
+Slot Clash of core course PGJSNK$inside and elective course DNOENI$outside for student VL17XQJR. DNOENI$outside removed 
+Slot Clash of core course PGJSNK$inside and elective course DNOENI$outside for student VL17BGMW. DNOENI$outside removed 
+Slot Clash of core course PGJSNK$inside and elective course DNOENI$outside for student VL17GJTM. DNOENI$outside removed 
+Slot Clash of core course PGJSNK$inside and elective course DNOENI$outside for student VL17HVJK. DNOENI$outside removed 
+Slot Clash of core course PGJSNK$inside and elective course DNOENI$outside for student VL17VEKY. DNOENI$outside removed 
+Slot Clash of core course PGJSNK$inside and elective course DNOENI$outside for student VL17LFDM. DNOENI$outside removed 
+Slot Clash of core course PGJSNK$inside and elective course DNOENI$outside for student VL17DTYW. DNOENI$outside removed 
+Slot Clash of core course PGJSNK$inside and elective course DNOENI$outside for student VL17OOVJ. DNOENI$outside removed 
+Slot Clash of core course PGJSNK$inside and elective course DNOENI$outside for student VL17FVFW. DNOENI$outside removed 
+Slot Clash of core course GZVTZP$inside and elective course XMIOPG$outside for student BJ15FZNI. XMIOPG$outside removed 
+Slot Clash of core course PGYQUV$inside and elective course UFNLAM$outside for student BJ15VCTJ. UFNLAM$outside removed 
+Slot Clash of core course PGYQUV$inside and elective course UFXJYO$outside for student BJ15AJMX. UFXJYO$outside removed 
+Slot Clash of core course PGVVNB$inside and elective course UFWLTQ$outside for student BJ15RWNG. UFWLTQ$outside removed 
+Slot Clash of core course PGRAQF$inside and elective course SFAGUB$outside for student BJ16YFMZ. SFAGUB$outside removed 
+Slot Clash of core course QQFCSM$inside and elective course PGLSBR$inside for student BJ16VXWD. PGLSBR$inside removed 
+Slot Clash of core course QQFCSM$inside and elective course PGLSBR$outside for student BJ16VXWD. PGLSBR$outside removed 
+Slot Clash of core course PGJSNK$inside and elective course DNOENI$outside for student BJ17KBRI. DNOENI$outside removed 
+Slot Clash of core course PGJSNK$inside and elective course DNOENI$outside for student BJ17PNWN. DNOENI$outside removed 
+Slot Clash of core course PGJSNK$inside and elective course DNOENI$outside for student BJ17WLQT. DNOENI$outside removed 
+Slot Clash of core course PGJSNK$inside and elective course DNOENI$outside for student BJ17UVEF. DNOENI$outside removed 
+Slot Clash of core course PGJSNK$inside and elective course DNOENI$outside for student BJ17WCHB. DNOENI$outside removed 
+Slot Clash of core course PGJSNK$inside and elective course DNOENI$outside for student BJ17NBRR. DNOENI$outside removed 
+Slot Clash of core course LFXLAW$inside and elective course DNOENI$outside for student LF15DRTF. DNOENI$outside removed 
+Slot Clash of core course LFXLAW$inside and elective course DNOENI$outside for student LF15EFRH. DNOENI$outside removed 
+Slot Clash of core course LFRDXJ$inside and elective course LFFUAL$inside for student LF15ZCRL. LFFUAL$inside removed 
+Slot Clash of core course LFRDXJ$inside and elective course LFFUAL$outside for student LF15ZCRL. LFFUAL$outside removed 
+Slot Clash of core course LFBMNG$inside and elective course TJTDRY$outside for student LF15ZCRL. TJTDRY$outside removed 
+Slot Clash of core course LFBMNG$inside and elective course TJGDMF$outside for student LF15ZCRL. TJGDMF$outside removed 
+Slot Clash of core course LFBMNG$inside and elective course TJPYYJ$outside for student LF15ZCRL. TJPYYJ$outside removed 
+Slot Clash of core course LFRDXJ$inside and elective course LFTVQD$inside for student LF15DSGL. LFTVQD$inside removed 
+Slot Clash of core course LFRDXJ$inside and elective course LFTVQD$outside for student LF15DSGL. LFTVQD$outside removed 
+Slot Clash of core course LFBMNG$inside and elective course LFXTGG$inside for student LF15DSGL. LFXTGG$inside removed 
+Slot Clash of core course LFBMNG$inside and elective course LFXTGG$outside for student LF15DSGL. LFXTGG$outside removed 
+Slot Clash of core course LFBLGN$inside and elective course FORUPH$outside for student LF15DSGL. FORUPH$outside removed 
+Slot Clash of core course LFOFFD$inside and elective course LFHZJW$inside for student LF15DSGL. LFHZJW$inside removed 
+Slot Clash of core course LFOFFD$inside and elective course LFHZJW$outside for student LF15DSGL. LFHZJW$outside removed 
+Slot Clash of core course LFRDXJ$inside and elective course DDHMRB$outside for student LF15XXKV. DDHMRB$outside removed 
+Slot Clash of core course LFBMNG$inside and elective course TJPYYJ$outside for student LF15XXKV. TJPYYJ$outside removed 
+Slot Clash of core course LFRDXJ$inside and elective course XMAFNC$outside for student LF15HZII. XMAFNC$outside removed 
+Slot Clash of core course LFBMNG$inside and elective course LFORDZ$inside for student LF15HZII. LFORDZ$inside removed 
+Slot Clash of core course LFBMNG$inside and elective course LFORDZ$outside for student LF15HZII. LFORDZ$outside removed 
+Slot Clash of core course LFBLGN$inside and elective course LFYNDN$inside for student LF15HZII. LFYNDN$inside removed 
+Slot Clash of core course LFBLGN$inside and elective course LFYNDN$outside for student LF15HZII. LFYNDN$outside removed 
+Slot Clash of core course LFBLGN$inside and elective course GZSXZC$outside for student LF15LFOA. GZSXZC$outside removed 
+Slot Clash of core course LFOFFD$inside and elective course LFHZJW$inside for student LF15LFOA. LFHZJW$inside removed 
+Slot Clash of core course LFOFFD$inside and elective course LFHZJW$outside for student LF15LFOA. LFHZJW$outside removed 
+Slot Clash of core course LFBMNG$inside and elective course TJZMSI$outside for student LF15RMZI. TJZMSI$outside removed 
+Slot Clash of core course LFBMNG$inside and elective course TJGDMF$outside for student LF15RMZI. TJGDMF$outside removed 
+Slot Clash of core course LFRDXJ$inside and elective course LFRZSV$inside for student LF15YGVK. LFRZSV$inside removed 
+Slot Clash of core course LFRDXJ$inside and elective course LFRZSV$outside for student LF15YGVK. LFRZSV$outside removed 
+Slot Clash of core course LFBMNG$inside and elective course LFORDZ$inside for student LF15YGVK. LFORDZ$inside removed 
+Slot Clash of core course LFBMNG$inside and elective course LFORDZ$outside for student LF15YGVK. LFORDZ$outside removed 
+Slot Clash of core course LFBMNG$inside and elective course LFORDZ$inside for student LF15NQEZ. LFORDZ$inside removed 
+Slot Clash of core course LFBMNG$inside and elective course LFORDZ$outside for student LF15NQEZ. LFORDZ$outside removed 
+Slot Clash of core course LFOFFD$inside and elective course LFHZJW$inside for student LF15NQEZ. LFHZJW$inside removed 
+Slot Clash of core course LFOFFD$inside and elective course LFHZJW$outside for student LF15NQEZ. LFHZJW$outside removed 
+Slot Clash of core course LFBMNG$inside and elective course LFORDZ$inside for student LF15VRVV. LFORDZ$inside removed 
+Slot Clash of core course LFBMNG$inside and elective course LFORDZ$outside for student LF15VRVV. LFORDZ$outside removed 
+Slot Clash of core course LFOFFD$inside and elective course LFHZJW$inside for student LF15VRVV. LFHZJW$inside removed 
+Slot Clash of core course LFOFFD$inside and elective course LFHZJW$outside for student LF15VRVV. LFHZJW$outside removed 
+Slot Clash of core course LFBMNG$inside and elective course TJPYYJ$outside for student LF15OQNN. TJPYYJ$outside removed 
+Slot Clash of core course LFBMNG$inside and elective course TJTDRY$outside for student LF15OQNN. TJTDRY$outside removed 
+Slot Clash of core course LFBLGN$inside and elective course LFVJPA$inside for student LF15OQNN. LFVJPA$inside removed 
+Slot Clash of core course LFBLGN$inside and elective course LFVJPA$outside for student LF15OQNN. LFVJPA$outside removed 
+Slot Clash of core course LFRDXJ$inside and elective course DDHMRB$outside for student LF15CCQA. DDHMRB$outside removed 
+Slot Clash of core course LFBMNG$inside and elective course LFRBZC$inside for student LF15CCQA. LFRBZC$inside removed 
+Slot Clash of core course LFBMNG$inside and elective course LFRBZC$outside for student LF15CCQA. LFRBZC$outside removed 
+Slot Clash of core course LFOFFD$inside and elective course LFTMEY$inside for student LF15CCQA. LFTMEY$inside removed 
+Slot Clash of core course LFOFFD$inside and elective course LFTMEY$outside for student LF15CCQA. LFTMEY$outside removed 
+Slot Clash of core course LFBMNG$inside and elective course LFXTGG$inside for student LF15DFXI. LFXTGG$inside removed 
+Slot Clash of core course LFBMNG$inside and elective course LFXTGG$outside for student LF15DFXI. LFXTGG$outside removed 
+Slot Clash of core course LFBLGN$inside and elective course LFYNDN$inside for student LF15DFXI. LFYNDN$inside removed 
+Slot Clash of core course LFBLGN$inside and elective course LFYNDN$outside for student LF15DFXI. LFYNDN$outside removed 
+Slot Clash of core course LFOFFD$inside and elective course LFHZJW$inside for student LF15DFXI. LFHZJW$inside removed 
+Slot Clash of core course LFOFFD$inside and elective course LFHZJW$outside for student LF15DFXI. LFHZJW$outside removed 
+Slot Clash of core course LFXLAW$inside and elective course DNOENI$outside for student LF16HLVL. DNOENI$outside removed 
+Slot Clash of core course LFDTAI$inside and elective course DNOENI$outside for student LF17ANMT. DNOENI$outside removed 
+Slot Clash of core course LFDTAI$inside and elective course DNOENI$outside for student LF17WQJP. DNOENI$outside removed 
+Slot Clash of core course LFDTAI$inside and elective course DNOENI$outside for student LF17ROPE. DNOENI$outside removed 
+Slot Clash of core course LFDTAI$inside and elective course DNOENI$outside for student LF17CGAF. DNOENI$outside removed 
+Slot Clash of core course LFDTAI$inside and elective course XMJNTV$outside for student LF17VHZJ. XMJNTV$outside removed 
+Slot Clash of core course LFDTAI$inside and elective course DNOENI$outside for student LF17DEUP. DNOENI$outside removed 
+Slot Clash of core course LFDTAI$inside and elective course DNOENI$outside for student LF17NOEE. DNOENI$outside removed 
+Slot Clash of core course DSZFGP$inside and elective course DSSPCL$inside for student DS15HDMG. DSSPCL$inside removed 
+Slot Clash of core course DSZFGP$inside and elective course DSSPCL$outside for student DS15HDMG. DSSPCL$outside removed 
+Slot Clash of core course DSZFGP$inside and elective course DSSPCL$inside for student DS15XDQG. DSSPCL$inside removed 
+Slot Clash of core course DSZFGP$inside and elective course DSSPCL$outside for student DS15XDQG. DSSPCL$outside removed 
+Slot Clash of core course DSZFGP$inside and elective course GZSFJX$outside for student DS15XDQG. GZSFJX$outside removed 
+Slot Clash of core course TJTDRY$inside and elective course DSWJGL$inside for student DS15WAMQ. DSWJGL$inside removed 
+Slot Clash of core course TJTDRY$inside and elective course DSWJGL$outside for student DS15WAMQ. DSWJGL$outside removed 
+Slot Clash of core course DSZFGP$inside and elective course DSTZHW$inside for student DS15BFXE. DSTZHW$inside removed 
+Slot Clash of core course DSZFGP$inside and elective course DSTZHW$outside for student DS15BFXE. DSTZHW$outside removed 
+Slot Clash of core course DSZFGP$inside and elective course DSTZHW$inside for student DS15DZDZ. DSTZHW$inside removed 
+Slot Clash of core course DSZFGP$inside and elective course DSTZHW$outside for student DS15DZDZ. DSTZHW$outside removed 
+Slot Clash of core course TCGMPL$inside and elective course DNIFQF$outside for student DS16MXZB. DNIFQF$outside removed 
+Slot Clash of core course DSLGZQ$inside and elective course UFQSNO$outside for student DS16ASYC. UFQSNO$outside removed 
+Slot Clash of core course DSLGZQ$inside and elective course QQELSA$outside for student DS16UVGQ. QQELSA$outside removed 
+Slot Clash of core course DSTGDL$inside and elective course DNOENI$outside for student DS17YMPV. DNOENI$outside removed 
+Slot Clash of core course DSTGDL$inside and elective course DNOENI$outside for student DS17JUVF. DNOENI$outside removed 
+Slot Clash of core course DSTGDL$inside and elective course DNOENI$outside for student DS17ZKBR. DNOENI$outside removed 
+Slot Clash of core course DSTGDL$inside and elective course DNOENI$outside for student DS17GQGE. DNOENI$outside removed 
+Slot Clash of core course DSTGDL$inside and elective course DNOENI$outside for student DS17OCLN. DNOENI$outside removed 
+Slot Clash of core course DSTGDL$inside and elective course DNOENI$outside for student DS17VJJO. DNOENI$outside removed 
+Slot Clash of core course DSTGDL$inside and elective course DNOENI$outside for student DS17DXHA. DNOENI$outside removed 
+Slot Clash of core course DSTGDL$inside and elective course DNOENI$outside for student DS17XQUL. DNOENI$outside removed 
+Slot Clash of core course DSTGDL$inside and elective course DNOENI$outside for student DS17OSXD. DNOENI$outside removed 
+Slot Clash of core course DSTGDL$inside and elective course DNOENI$outside for student DS17QZHI. DNOENI$outside removed 
+Slot Clash of core course DSTGDL$inside and elective course DNOENI$outside for student DS17YGEB. DNOENI$outside removed 
+Slot Clash of core course DSTGDL$inside and elective course DNOENI$outside for student DS17JHXV. DNOENI$outside removed 
+Slot Clash of core course DSTGDL$inside and elective course DNOENI$outside for student DS17TDSF. DNOENI$outside removed 
+Slot Clash of core course DSTGDL$inside and elective course DNOENI$outside for student DS17XSHY. DNOENI$outside removed 
+Slot Clash of core course DSTGDL$inside and elective course DNOENI$outside for student DS17HXHW. DNOENI$outside removed 
+Slot Clash of core course DSTGDL$inside and elective course DNOENI$outside for student DS17KFYE. DNOENI$outside removed 
+Slot Clash of core course DSTGDL$inside and elective course DNOENI$outside for student DS17ILPP. DNOENI$outside removed 
+Slot Clash of core course DSTGDL$inside and elective course DNOENI$outside for student DS17OSWU. DNOENI$outside removed 
+Slot Clash of core course DSTGDL$inside and elective course DNOENI$outside for student DS17BSLP. DNOENI$outside removed 
+Slot Clash of core course DSTGDL$inside and elective course DNOENI$outside for student DS17RTPB. DNOENI$outside removed 
+Slot Clash of core course DSTGDL$inside and elective course DNOENI$outside for student DS17RZDI. DNOENI$outside removed 
+Slot Clash of core course DSTGDL$inside and elective course DNOENI$outside for student DS17NBOF. DNOENI$outside removed 
+Slot Clash of core course DSTGDL$inside and elective course DNOENI$outside for student DS17WIFA. DNOENI$outside removed 
+Slot Clash of core course DSTGDL$inside and elective course DNOENI$outside for student DS17YOWV. DNOENI$outside removed 
+Slot Clash of core course DSTGDL$inside and elective course DNOENI$outside for student DS17DGUG. DNOENI$outside removed 
+Slot Clash of core course XMLJMC$inside and elective course XMCDUN$inside for student XM16WNDH. XMCDUN$inside removed 
+Slot Clash of core course XMLJMC$inside and elective course XMCDUN$outside for student XM16WNDH. XMCDUN$outside removed 
+Slot Clash of core course XMLJMC$inside and elective course XMHIYP$inside for student XM16PIPT. XMHIYP$inside removed 
+Slot Clash of core course XMLJMC$inside and elective course XMHIYP$outside for student XM16PIPT. XMHIYP$outside removed 
+Slot Clash of core course XMLJMC$inside and elective course XMHIYP$inside for student XM16LSKB. XMHIYP$inside removed 
+Slot Clash of core course XMLJMC$inside and elective course XMHIYP$outside for student XM16LSKB. XMHIYP$outside removed 
+Slot Clash of core course XMMCBB$inside and elective course DNOENI$outside for student XM17YMVU. DNOENI$outside removed 
+Slot Clash of core course XMMCBB$inside and elective course DNOENI$outside for student XM17DWTX. DNOENI$outside removed 
+Slot Clash of core course XMMCBB$inside and elective course DNOENI$outside for student XM17ZHGT. DNOENI$outside removed 
+Slot Clash of core course XMMCBB$inside and elective course DNOENI$outside for student XM17WLJO. DNOENI$outside removed 
+Slot Clash of core course XMMCBB$inside and elective course DNOENI$outside for student XM17LCIJ. DNOENI$outside removed 
+Slot Clash of core course XMMCBB$inside and elective course DNOENI$outside for student XM17RVDS. DNOENI$outside removed 
+Slot Clash of core course XMMCBB$inside and elective course DNOENI$outside for student XM17ISLC. DNOENI$outside removed 
+Slot Clash of core course XMMCBB$inside and elective course DNOENI$outside for student XM17DMMW. DNOENI$outside removed 
+Slot Clash of core course XMMCBB$inside and elective course DNOENI$outside for student XM17COJP. DNOENI$outside removed 
+Slot Clash of core course XMMCBB$inside and elective course DNOENI$outside for student XM17VXAK. DNOENI$outside removed 
+Slot Clash of core course XMMCBB$inside and elective course DNOENI$outside for student XM17STRJ. DNOENI$outside removed 
+Slot Clash of core course XMMCBB$inside and elective course DNOENI$outside for student XM17SWRO. DNOENI$outside removed 
+Slot Clash of core course XMMCBB$inside and elective course DNOENI$outside for student XM17FWGE. DNOENI$outside removed 
+Slot Clash of core course XMMCBB$inside and elective course DNOENI$outside for student XM17XAAS. DNOENI$outside removed 
+Slot Clash of core course XMMCBB$inside and elective course DNOENI$outside for student XM17QTUY. DNOENI$outside removed 
+Slot Clash of core course XMMCBB$inside and elective course DNOENI$outside for student XM17YQEG. DNOENI$outside removed 
+Slot Clash of core course XMMCBB$inside and elective course DNOENI$outside for student XM17AWUL. DNOENI$outside removed 
+Slot Clash of core course XMMCBB$inside and elective course DNOENI$outside for student XM17LUBZ. DNOENI$outside removed 
+Slot Clash of core course XMMCBB$inside and elective course DNOENI$outside for student XM17QHDZ. DNOENI$outside removed 
+Slot Clash of core course XMMCBB$inside and elective course DNOENI$outside for student XM17ZNPP. DNOENI$outside removed 
+Slot Clash of core course XMMCBB$inside and elective course DNOENI$outside for student XM17XFZR. DNOENI$outside removed 
+Slot Clash of core course XMJFCB$inside and elective course DDONNA$outside for student XM17XFZR. DDONNA$outside removed 
+Slot Clash of core course XMPCJP$inside and elective course PGLSBR$outside for student XM17RUVQ. PGLSBR$outside removed 
+Slot Clash of core course UFPTWD$inside and elective course UFNLAM$inside for student UF15SACL. UFNLAM$inside removed 
+Slot Clash of core course UFPTWD$inside and elective course UFNLAM$outside for student UF15SACL. UFNLAM$outside removed 
+Slot Clash of core course UFPTWD$inside and elective course UFXJYO$inside for student UF15OSVM. UFXJYO$inside removed 
+Slot Clash of core course UFPTWD$inside and elective course UFXJYO$outside for student UF15OSVM. UFXJYO$outside removed 
+Slot Clash of core course UFPTWD$inside and elective course UFEENI$inside for student UF15OSVM. UFEENI$inside removed 
+Slot Clash of core course UFPTWD$inside and elective course UFEENI$outside for student UF15OSVM. UFEENI$outside removed 
+Slot Clash of core course UFVVDY$inside and elective course UFNLAM$inside for student UF15OKTJ. UFNLAM$inside removed 
+Slot Clash of core course UFVVDY$inside and elective course UFNLAM$outside for student UF15OKTJ. UFNLAM$outside removed 
+Slot Clash of core course UFPTWD$inside and elective course UFXJYO$inside for student UF15GYNF. UFXJYO$inside removed 
+Slot Clash of core course UFPTWD$inside and elective course UFXJYO$outside for student UF15GYNF. UFXJYO$outside removed 
+Slot Clash of core course DDBVFC$inside and elective course DDHMRB$outside for student UF15FLHQ. DDHMRB$outside removed 
+Slot Clash of core course UFPTWD$inside and elective course UFXJYO$inside for student UF15IVQS. UFXJYO$inside removed 
+Slot Clash of core course UFPTWD$inside and elective course UFXJYO$outside for student UF15IVQS. UFXJYO$outside removed 
+Slot Clash of core course UFPTWD$inside and elective course UFEENI$inside for student UF15IVQS. UFEENI$inside removed 
+Slot Clash of core course UFPTWD$inside and elective course UFEENI$outside for student UF15IVQS. UFEENI$outside removed 
+Slot Clash of core course UFPTWD$inside and elective course GZSFJX$outside for student UF15HIRN. GZSFJX$outside removed 
+Slot Clash of core course UFPTWD$inside and elective course UFEENI$inside for student UF15USSD. UFEENI$inside removed 
+Slot Clash of core course UFPTWD$inside and elective course UFEENI$outside for student UF15USSD. UFEENI$outside removed 
+Slot Clash of core course UFPTWD$inside and elective course UFXJYO$inside for student UF15USSD. UFXJYO$inside removed 
+Slot Clash of core course UFPTWD$inside and elective course UFXJYO$outside for student UF15USSD. UFXJYO$outside removed 
+Slot Clash of core course UFYBGB$inside and elective course UFWLTQ$inside for student UF16NEWY. UFWLTQ$inside removed 
+Slot Clash of core course UFYBGB$inside and elective course UFWLTQ$outside for student UF16NEWY. UFWLTQ$outside removed 
+Slot Clash of core course UFYBGB$inside and elective course UFWLTQ$inside for student UF16CREO. UFWLTQ$inside removed 
+Slot Clash of core course UFYBGB$inside and elective course UFWLTQ$outside for student UF16CREO. UFWLTQ$outside removed 
+Slot Clash of core course UFQSNO$inside and elective course DNOENI$outside for student UF16JGQM. DNOENI$outside removed 
+Slot Clash of core course UFYBGB$inside and elective course XMIOPG$outside for student UF16KNJO. XMIOPG$outside removed 
+Slot Clash of core course UFYBGB$inside and elective course UFWLTQ$inside for student UF16SUIS. UFWLTQ$inside removed 
+Slot Clash of core course UFYBGB$inside and elective course UFWLTQ$outside for student UF16SUIS. UFWLTQ$outside removed 
+Slot Clash of core course UFPTWD$inside and elective course UFEENI$inside for student UF16BDMB. UFEENI$inside removed 
+Slot Clash of core course UFPTWD$inside and elective course UFEENI$outside for student UF16BDMB. UFEENI$outside removed 
+Slot Clash of core course UFPTWD$inside and elective course UFEENI$inside for student UF16LLSV. UFEENI$inside removed 
+Slot Clash of core course UFPTWD$inside and elective course UFEENI$outside for student UF16LLSV. UFEENI$outside removed 
+Slot Clash of core course UFYBGB$inside and elective course UFWLTQ$inside for student UF16RDQJ. UFWLTQ$inside removed 
+Slot Clash of core course UFYBGB$inside and elective course UFWLTQ$outside for student UF16RDQJ. UFWLTQ$outside removed 
+Slot Clash of core course UFPTWD$inside and elective course UFEENI$inside for student UF16QWUH. UFEENI$inside removed 
+Slot Clash of core course UFPTWD$inside and elective course UFEENI$outside for student UF16QWUH. UFEENI$outside removed 
+Slot Clash of core course UFYBGB$inside and elective course UFWLTQ$inside for student UF16QWUH. UFWLTQ$inside removed 
+Slot Clash of core course UFYBGB$inside and elective course UFWLTQ$outside for student UF16QWUH. UFWLTQ$outside removed 
+Slot Clash of core course UFPTWD$inside and elective course UFXJYO$inside for student UF16ECVS. UFXJYO$inside removed 
+Slot Clash of core course UFPTWD$inside and elective course UFXJYO$outside for student UF16ECVS. UFXJYO$outside removed 
+Slot Clash of core course UFYBGB$inside and elective course UFWLTQ$inside for student UF16ECVS. UFWLTQ$inside removed 
+Slot Clash of core course UFYBGB$inside and elective course UFWLTQ$outside for student UF16ECVS. UFWLTQ$outside removed 
+Slot Clash of core course SFLORS$inside and elective course DNOENI$outside for student SF15ORKE. DNOENI$outside removed 
+Slot Clash of core course SFGHQR$inside and elective course XMIOPG$outside for student SF15CTFP. XMIOPG$outside removed 
+Slot Clash of core course UVGNER$inside and elective course SFABDD$inside for student SF16QXAF. SFABDD$inside removed 
+Slot Clash of core course UVGNER$inside and elective course SFABDD$outside for student SF16QXAF. SFABDD$outside removed 
+Slot Clash of core course SFLORS$inside and elective course SFNWEV$inside for student SF16IWSX. SFNWEV$inside removed 
+Slot Clash of core course SFLORS$inside and elective course SFNWEV$outside for student SF16IWSX. SFNWEV$outside removed 
+Slot Clash of core course SFZGMF$inside and elective course PGLSBR$outside for student SF17HLKU. PGLSBR$outside removed 
+Slot Clash of core course SFZGMF$inside and elective course SFQBNI$inside for student SF17HLKU. SFQBNI$inside removed 
+Slot Clash of core course SFZGMF$inside and elective course SFQBNI$outside for student SF17HLKU. SFQBNI$outside removed 
+Slot Clash of core course SFFWGR$inside and elective course DNOENI$outside for student SF17HLKU. DNOENI$outside removed 
+Slot Clash of core course SFFWGR$inside and elective course DNOENI$outside for student SF17CHJW. DNOENI$outside removed 
+Slot Clash of core course SFFWGR$inside and elective course DNOENI$outside for student SF17DTCM. DNOENI$outside removed 
+Slot Clash of core course SFFWGR$inside and elective course DNOENI$outside for student SF17VAIX. DNOENI$outside removed 
+Slot Clash of core course SFFWGR$inside and elective course DNOENI$outside for student SF17FGTZ. DNOENI$outside removed 
+Slot Clash of core course SFFWGR$inside and elective course DNOENI$outside for student SF17XPEL. DNOENI$outside removed 
+Slot Clash of core course SFFWGR$inside and elective course DNOENI$outside for student SF17DATI. DNOENI$outside removed 
+Slot Clash of core course SFZGMF$inside and elective course SFQBNI$inside for student SF17FZUH. SFQBNI$inside removed 
+Slot Clash of core course SFZGMF$inside and elective course SFQBNI$outside for student SF17FZUH. SFQBNI$outside removed 
+Slot Clash of core course SFFWGR$inside and elective course DNOENI$outside for student SF17OXOG. DNOENI$outside removed 
+Slot Clash of core course SFFWGR$inside and elective course DNOENI$outside for student SF17KGYO. DNOENI$outside removed 
+Slot Clash of core course SFFWGR$inside and elective course DNOENI$outside for student SF17VRNZ. DNOENI$outside removed 
+Slot Clash of core course SFZGMF$inside and elective course SFQBNI$inside for student SF17VAJA. SFQBNI$inside removed 
+Slot Clash of core course SFZGMF$inside and elective course SFQBNI$outside for student SF17VAJA. SFQBNI$outside removed 
+Slot Clash of core course SFFWGR$inside and elective course DNOENI$outside for student SF17JIBE. DNOENI$outside removed 
+Slot Clash of core course SFFWGR$inside and elective course DNOENI$outside for student SF17VVUQ. DNOENI$outside removed 
+Slot Clash of core course SFFWGR$inside and elective course DNOENI$outside for student SF17KTFJ. DNOENI$outside removed 
+Slot Clash of core course SFFWGR$inside and elective course DNOENI$outside for student SF17WYZR. DNOENI$outside removed 
+Slot Clash of core course SFFWGR$inside and elective course DNOENI$outside for student SF17METY. DNOENI$outside removed 
+Slot Clash of core course SFFWGR$inside and elective course DNOENI$outside for student SF17LVFO. DNOENI$outside removed 
+Slot Clash of core course SFFWGR$inside and elective course DNOENI$outside for student SF17MQCQ. DNOENI$outside removed 
+Slot Clash of core course SFFWGR$inside and elective course DNOENI$outside for student SF17TAKV. DNOENI$outside removed 
+Slot Clash of core course SFFWGR$inside and elective course DNOENI$outside for student SF17AYFV. DNOENI$outside removed 
+Slot Clash of core course SFFWGR$inside and elective course DNOENI$outside for student SF17MJPI. DNOENI$outside removed 
+Slot Clash of core course SFFWGR$inside and elective course DNOENI$outside for student SF17EDQP. DNOENI$outside removed 
+Slot Clash of core course SFFWGR$inside and elective course DNOENI$outside for student SF17MNHD. DNOENI$outside removed 
+Slot Clash of core course SFFWGR$inside and elective course DNOENI$outside for student SF17ECCM. DNOENI$outside removed 
+Slot Clash of core course SFFWGR$inside and elective course DNOENI$outside for student SF17PYYE. DNOENI$outside removed 
+Slot Clash of core course UVHSNY$inside and elective course UFEENI$outside for student SF17BFTH. UFEENI$outside removed 
+Slot Clash of core course SFFWGR$inside and elective course DNOENI$outside for student SF17NJVE. DNOENI$outside removed 
+Slot Clash of core course SFFWGR$inside and elective course DNOENI$outside for student SF17PZHL. DNOENI$outside removed 
+Slot Clash of core course SFFWGR$inside and elective course DNOENI$outside for student SF17EMRZ. DNOENI$outside removed 
+Slot Clash of core course SFFWGR$inside and elective course DNOENI$outside for student SF17RKKG. DNOENI$outside removed 
+Slot Clash of core course SFFWGR$inside and elective course DNOENI$outside for student SF17CJIO. DNOENI$outside removed 
+Slot Clash of core course SFFWGR$inside and elective course DNOENI$outside for student SF17XPCV. DNOENI$outside removed 
+Slot Clash of core course SFFWGR$inside and elective course DNOENI$outside for student SF17SJUJ. DNOENI$outside removed 
+Slot Clash of core course SFFWGR$inside and elective course DNOENI$outside for student SF17YVLX. DNOENI$outside removed 
+Slot Clash of core course SFFWGR$inside and elective course DNOENI$outside for student SF17RIFT. DNOENI$outside removed 
+Slot Clash of core course SFFWGR$inside and elective course DNOENI$outside for student SF17AVIF. DNOENI$outside removed 
+Slot Clash of core course SFFWGR$inside and elective course DNOENI$outside for student SF17AGNS. DNOENI$outside removed 
+Slot Clash of core course SFFWGR$inside and elective course DNOENI$outside for student SF17ZEFN. DNOENI$outside removed 
+Slot Clash of core course SFFWGR$inside and elective course DNOENI$outside for student SF17PDTM. DNOENI$outside removed 
+Slot Clash of core course SFFWGR$inside and elective course DNOENI$outside for student SF17GBAR. DNOENI$outside removed 
+Slot Clash of core course SFFWGR$inside and elective course DNOENI$outside for student SF17FZJR. DNOENI$outside removed 
+Slot Clash of core course SFFWGR$inside and elective course DNOENI$outside for student SF17GPPM. DNOENI$outside removed 
+Slot Clash of core course SFFWGR$inside and elective course DNOENI$outside for student SF17YLNT. DNOENI$outside removed 
+Slot Clash of core course DNYMGM$inside and elective course SFIPIU$outside for student OZ15VEFH. SFIPIU$outside removed 
+Slot Clash of core course OZBUGM$inside and elective course SFIPIU$outside for student OZ16XAKA. SFIPIU$outside removed 
+Slot Clash of core course OZBUGM$inside and elective course DDONNA$outside for student OZ16KUGM. DDONNA$outside removed 
+Slot Clash of core course OZBUGM$inside and elective course SFIPIU$outside for student OZ16QSKP. SFIPIU$outside removed 
+Slot Clash of core course DNYMGM$inside and elective course FOTTRL$inside for student FO15WSCG. FOTTRL$inside removed 
+Slot Clash of core course DNYMGM$inside and elective course FOTTRL$outside for student FO15WSCG. FOTTRL$outside removed 
+Slot Clash of core course DNYMGM$inside and elective course FOTTRL$inside for student FO15EKKB. FOTTRL$inside removed 
+Slot Clash of core course DNYMGM$inside and elective course FOTTRL$outside for student FO15EKKB. FOTTRL$outside removed 
+Slot Clash of core course DNYMGM$inside and elective course LFSBJJ$outside for student FO15YELK. LFSBJJ$outside removed 
+Slot Clash of core course DNYMGM$inside and elective course LFSBJJ$outside for student FO15VIDV. LFSBJJ$outside removed 
+Slot Clash of core course DNYMGM$inside and elective course UFWLTQ$outside for student FO15OPYO. UFWLTQ$outside removed 
+Slot Clash of core course DNYMGM$inside and elective course NMSVWI$outside for student FO15CIMJ. NMSVWI$outside removed 
+Slot Clash of core course SFXKJX$inside and elective course TJGDMF$outside for student FO15WBCZ. TJGDMF$outside removed 
+Slot Clash of core course SFXKJX$inside and elective course TJPYYJ$outside for student FO15WBCZ. TJPYYJ$outside removed 
+Slot Clash of core course DNYMGM$inside and elective course DSVZGC$outside for student FO15VIXY. DSVZGC$outside removed 
+Slot Clash of core course DNYMGM$inside and elective course DSVZGC$outside for student FO15JQHL. DSVZGC$outside removed 
+Slot Clash of core course FONHWG$inside and elective course UFQSNO$outside for student FO15RKNP. UFQSNO$outside removed 
+Slot Clash of core course FONHWG$inside and elective course UFQSNO$outside for student FO15GRJL. UFQSNO$outside removed 
+Slot Clash of core course TJTDRY$inside and elective course PGBJRE$outside for student FO15SNEQ. PGBJRE$outside removed 
+Slot Clash of core course TJTDRY$inside and elective course XMBELY$outside for student FO15SNEQ. XMBELY$outside removed 
+Slot Clash of core course FONHWG$inside and elective course UFQSNO$outside for student FO15KKJW. UFQSNO$outside removed 
+Slot Clash of core course FONHWG$inside and elective course NMLQKI$outside for student FO15PJUO. NMLQKI$outside removed 
+Slot Clash of core course DNYMGM$inside and elective course XMIOPG$outside for student FO15GCIV. XMIOPG$outside removed 
+Slot Clash of core course DNYMGM$inside and elective course XMIOPG$outside for student FO15APTC. XMIOPG$outside removed 
+Slot Clash of core course DNYMGM$inside and elective course XMIOPG$outside for student FO15WGLO. XMIOPG$outside removed 
+Slot Clash of core course DNYMGM$inside and elective course XMIOPG$outside for student FO15VDCN. XMIOPG$outside removed 
+Slot Clash of core course FONHWG$inside and elective course UFQSNO$outside for student FO15NJKG. UFQSNO$outside removed 
+Slot Clash of core course FONHWG$inside and elective course UFQSNO$outside for student FO15RSML. UFQSNO$outside removed 
+Slot Clash of core course DNYMGM$inside and elective course FOTTRL$inside for student FO15MGLI. FOTTRL$inside removed 
+Slot Clash of core course DNYMGM$inside and elective course FOTTRL$outside for student FO15MGLI. FOTTRL$outside removed 
+Slot Clash of core course FONHWG$inside and elective course UFNLAM$outside for student FO15MILI. UFNLAM$outside removed 
+Slot Clash of core course SFGHQR$inside and elective course UFYBGB$outside for student FO15QHHI. UFYBGB$outside removed 
+Slot Clash of core course FONHWG$inside and elective course UFQSNO$outside for student FO15BYTS. UFQSNO$outside removed 
+Slot Clash of core course FOYZXW$inside and elective course NMYLLH$outside for student FO16NMGJ. NMYLLH$outside removed 
+Slot Clash of core course FOYZXW$inside and elective course NMLQKI$outside for student FO16CZRZ. NMLQKI$outside removed 
+Slot Clash of core course FOYZXW$inside and elective course SFXJNT$outside for student FO16KLLP. SFXJNT$outside removed 
+Slot Clash of core course FOYZXW$inside and elective course NMLQKI$outside for student FO16KLLP. NMLQKI$outside removed 
+Slot Clash of core course FOYZXW$inside and elective course UFXJYO$outside for student FO16DZOK. UFXJYO$outside removed 
+Slot Clash of core course FOUAAY$inside and elective course NMLQKI$outside for student FO16PIRE. NMLQKI$outside removed 
+Slot Clash of core course FOYZXW$inside and elective course SFUMNS$outside for student FO16PIRE. SFUMNS$outside removed 
+Slot Clash of core course FOYZXW$inside and elective course NMLQKI$outside for student FO16MCLM. NMLQKI$outside removed 
+Slot Clash of core course FOYZXW$inside and elective course NMYLLH$outside for student FO16THMP. NMYLLH$outside removed 
+Slot Clash of core course FOYZXW$inside and elective course LFSBJJ$outside for student FO16XKBR. LFSBJJ$outside removed 
+Slot Clash of core course FOYZXW$inside and elective course UFPTWD$outside for student FO16NLJA. UFPTWD$outside removed 
+Slot Clash of core course FOYZXW$inside and elective course FOTTRL$inside for student FO16HSSC. FOTTRL$inside removed 
+Slot Clash of core course FOYZXW$inside and elective course FOTTRL$outside for student FO16HSSC. FOTTRL$outside removed 
+Slot Clash of core course FOYZXW$inside and elective course NMLQKI$outside for student FO16IAZE. NMLQKI$outside removed 
+Slot Clash of core course FOYZXW$inside and elective course UFPTWD$outside for student FO16HXGF. UFPTWD$outside removed 
+Slot Clash of core course FOYZXW$inside and elective course GZUNOC$outside for student FO16SIMN. GZUNOC$outside removed 
+Slot Clash of core course FOYZXW$inside and elective course GZVZNT$outside for student FO16QTDP. GZVZNT$outside removed 
+Slot Clash of core course FOYZXW$inside and elective course DDONNA$outside for student FO16QTDP. DDONNA$outside removed 
+Slot Clash of core course FOYZXW$inside and elective course XMIOPG$outside for student FO16WFEV. XMIOPG$outside removed 
+Slot Clash of core course FOYZXW$inside and elective course XMCDUN$outside for student FO16WFEV. XMCDUN$outside removed 
+Slot Clash of core course FOYZXW$inside and elective course XMIOPG$outside for student FO16IBDB. XMIOPG$outside removed 
+Slot Clash of core course FOYZXW$inside and elective course SFUMNS$outside for student FO16BUHU. SFUMNS$outside removed 
+Slot Clash of core course FOYZXW$inside and elective course XMIOPG$outside for student FO16FAFI. XMIOPG$outside removed 
+Slot Clash of core course FOYZXW$inside and elective course GZUNOC$outside for student FO16ZMZC. GZUNOC$outside removed 
+Slot Clash of core course GZLTBR$inside and elective course DNOENI$outside for student FO17SYNJ. DNOENI$outside removed 
+Slot Clash of core course GZLTBR$inside and elective course DNOENI$outside for student FO17YEGN. DNOENI$outside removed 
+Slot Clash of core course GZLTBR$inside and elective course DNOENI$outside for student FO17KZOC. DNOENI$outside removed 
+Slot Clash of core course GZVTZP$inside and elective course FOTTRL$outside for student LT15KUGN. FOTTRL$outside removed 
+Slot Clash of core course LTSWCB$inside and elective course DNOENI$outside for student LT17NZQM. DNOENI$outside removed 
+Slot Clash of core course LTSWCB$inside and elective course DNOENI$outside for student LT17EQLG. DNOENI$outside removed 
+Slot Clash of core course LTVPDP$inside and elective course SFZGMF$outside for student LT17IBJP. SFZGMF$outside removed 
+Slot Clash of core course LTSWCB$inside and elective course DNOENI$outside for student LT17JCEF. DNOENI$outside removed 
+Slot Clash of core course XMJIBU$inside and elective course FEUYCV$inside for student SC15YQRT. FEUYCV$inside removed 
+Slot Clash of core course XMJIBU$inside and elective course FEUYCV$outside for student SC15YQRT. FEUYCV$outside removed 
+Slot Clash of core course DNYMGM$inside and elective course LFSBJJ$outside for student SC15VXLG. LFSBJJ$outside removed 
+Slot Clash of core course FEFRCD$inside and elective course SFZGMF$outside for student SC16FVKI. SFZGMF$outside removed 
+Slot Clash of core course FEFRCD$inside and elective course SFZGMF$outside for student SC16YZJG. SFZGMF$outside removed 
+Slot Clash of core course GZLTBR$inside and elective course DNOENI$outside for student SC17GNRM. DNOENI$outside removed 
+Slot Clash of core course GZLTBR$inside and elective course DNOENI$outside for student SC17YRWF. DNOENI$outside removed 
+Slot Clash of core course GZLTBR$inside and elective course DNOENI$outside for student SC17NZEG. DNOENI$outside removed 
+Slot Clash of core course GZLTBR$inside and elective course DNOENI$outside for student SC17BBJG. DNOENI$outside removed 
+Slot Clash of core course XMJIBU$inside and elective course OZNRWU$inside for student EI16KIVT. OZNRWU$inside removed 
+Slot Clash of core course XMJIBU$inside and elective course OZNRWU$outside for student EI16KIVT. OZNRWU$outside removed 
+Slot Clash of core course EIYFHW$inside and elective course DNOENI$outside for student EI17KBVZ. DNOENI$outside removed 
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : KJ15JXSG
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : KJ15KDMK
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : KJ15QIAK
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : KJ15RTAM
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : KJ15JJUW
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : KJ15EGCB
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : KJ15WRSI
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : KJ15GRNZ
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : KJ15XGJS
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : KJ15EGLM
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : KJ15ZTDQ
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : KJ15OBML
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : KJ16DENT
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : KJ16GPZM
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : KJ17ZHUO
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : KJ17EHNO
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : KJ17AWNX
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : KJ17VTJN
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : KJ17LYAY
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : KJ17FVJM
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : KJ17BZJW
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : VL15NCCC
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : VL15WKUB
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : VL15GFDH
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : VL15JQBE
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : VL15KUCA
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : VL15XYSM
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : VL16VMZN
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : VL16ANEW
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : VL16QQRF
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : VL16JAIY
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : VL16UAKR
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : VL16VKPN
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : VL16EPOB
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : VL16SSIW
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : VL17XVUM
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : VL17RIGQ
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : VL17SZUN
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : VL17XINU
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : VL17CDDD
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : BJ15WXTY
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : BJ15FQDR
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : BJ15FWTB
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : BJ15TDSH
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : BJ15BTJW
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : BJ16QXSU
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : BJ16QOXK
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : BJ16XYCN
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : BJ16USTN
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : BJ17YORD
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : BJ17OGQQ
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : BJ17VGXL
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : BJ17QBPM
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : LF15NCKF
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : LF15DGJV
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : LF15UPJQ
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : LF15TFCN
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : LF15QRTJ
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : LF15CIPC
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : LF15KLFF
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : LF15ERYP
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : LF15QNIZ
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : LF15MLQT
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : LF15IWBB
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : LF16OMEJ
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : LF16CTVI
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : LF16ZEGW
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : LF16IBPG
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : LF16GPHG
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : LF16YROK
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : LF16JIDX
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : LF16JIKM
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : LF16CYBS
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : LF16IOLK
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : LF16VSDU
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : LF16XMBT
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : LF16FGMN
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : LF16PBEX
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : LF16URXW
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : LF16DLMS
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : LF16ZFXF
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : LF16IXJK
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : LF17RXZE
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : LF17ZPXH
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : LF17MJYA
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : LF17DLRS
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : LF17FKEA
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : LF17FIFW
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : LF17OAFR
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : LF17SYNM
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : LF17NYLG
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : LF17DAAP
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : LF17LGXQ
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : DS15BJOO
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : DS15VOFN
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : DS15QRLZ
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : DS15TRRZ
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : DS15ZXHB
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : DS15KVRR
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : DS15ZWUJ
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : DS15PMPI
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : DS15IXAU
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : DS15NAOZ
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : DS15OEGP
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : DS15SBPT
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : DS15WROL
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : DS16MXZB
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : DS16BQYC
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : DS16EHSY
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : DS16OHEX
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : DS16QFNP
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : DS16USSU
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : DS17XBZX
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : DS17HGHY
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : DS17BGWM
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : DS17QKBB
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : DS17UQQB
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : DS17JPHS
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : DS17ZIHY
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : DS17NIEM
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : XM15FZAH
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : XM15TTOR
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : XM15QUEF
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : XM16NIKV
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : XM16EHQV
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : XM16GYHA
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : XM16EPCN
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : XM16LSKB
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : XM16RUOI
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : UF15WTMU
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : UF15AIEV
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : UF15USSD
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : UF16CREO
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : UF16AZOF
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : UF16SUIS
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : UF16BDMB
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : UF16DYPH
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : UF16RDQJ
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : UF16QWUH
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : UF16ECVS
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : UF17EYFA
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : UF17OYRI
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : UF17FYQD
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : UF17DDUQ
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : UF17VNKM
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : UF17HATX
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : UF17DXIS
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : UF17HDZA
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : UF17FOWY
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : UF17NJOK
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : UF17RXRB
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : UF17IHGP
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : UF17XGCY
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : UF17RUUX
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : UF17ITHI
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : UF17CHQP
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : UF17VKYZ
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : UF17INCO
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : UF17JVEX
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : UF17DLQW
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : UF17JFSR
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : UF17PHPW
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : UF17LQYY
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : UF17IPHV
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : UF17GPWQ
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : UF17NXTY
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : UF17EUCO
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : UF17NJNS
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : UF17DMKT
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : UF17QXCC
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : UF17NGMC
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : UF17GNQW
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : UF17SSGU
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : UF17YMQO
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : UF17HUAP
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : UF17IHWN
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : UF17HISA
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : UF17VRIZ
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : UF17HDXQ
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : UF17FXXN
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : UF17GXVK
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : UF17CWEY
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : UF17OAZG
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : UF17ZYRV
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : UF17YCMC
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : UF17DOHL
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : UF17ZGEX
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : UF17LXKP
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : UF17JVBM
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : UF17FVZS
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : UF17EPFN
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : UF17HDPI
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : UF17HAWT
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : UF17VTZP
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : UF17RMKJ
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : UF17SDZG
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : UF17HGAH
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : SF15AVMP
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : SF15JGHD
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : SF15GTRJ
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : SF15UJCM
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : SF15AVZY
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : SF16MPAA
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : SF16WSQA
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : SF16LVWU
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : SF16GBFI
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : SF16LMSX
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : SF17CZTD
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : SF17UTLA
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : OZ15OKDF
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : OZ15ERGE
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : OZ16YXHS
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : OZ16OGFD
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : OZ17FHQS
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : OZ17EBKB
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : OZ17OKLB
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO15ZPWB
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO15VDND
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO15KWMZ
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO15HGHZ
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO15CCMF
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO15EUUA
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO15PHEN
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO15NVLH
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO16FTCS
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO16RNLP
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO16BLIR
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO16ZPAM
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO16HHBO
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO16ZVLT
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO16XDQH
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO16SMBK
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO16AAZV
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO16XXXL
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO16UDCX
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO16PJEF
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO16BTNW
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO16BHRG
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO16RJQT
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO16OVLU
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO16BKNW
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO16RMMD
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO16OJXH
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO16JGQN
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO16YLHL
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO16HSYI
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO16RVKM
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO16DADZ
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17BWBQ
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17SFRC
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17SZEL
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17YDWJ
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17JRRV
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17GNSL
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17PRQX
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17TWAA
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17JUYA
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17LCHS
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17UIJR
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17QRLG
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17AVHQ
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17DZWC
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17ORAN
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17NIRV
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17JBUX
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17VKYC
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17ZEID
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17CTFA
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17NAWQ
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17LQGY
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17SUQL
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17IWVY
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17AZGF
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17MMGO
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17TDOZ
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17NBOG
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17HAAT
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17KBJH
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17JELK
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17WVBN
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17CQIL
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17BVMS
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17JVUG
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17WPXP
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17CMXF
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17OTRP
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17GXAQ
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17IFSE
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17OOEC
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17URHH
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17OTGB
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17QZIS
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17DMSI
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17UNKH
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17ZYUW
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17MMOH
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17ADFS
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17EWBW
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17RIEC
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17LELW
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17YGXC
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17PHOC
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17SATM
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17UXKA
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17BZKW
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17KIHH
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17WCAW
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17NIKF
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17NHNS
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17VYZX
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17XVWF
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17BVTU
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17QOGL
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17NLST
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17IFSD
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17TMSD
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17VILB
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17WWEG
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17CFKQ
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17FXMJ
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17YAOK
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17CDDN
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17ISIT
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17JFCW
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17TXQC
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17KTJT
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17RRAS
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17GDKR
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17URBP
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17KPKQ
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17UFCB
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17OKNS
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17LLHK
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17MAYR
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17QSDY
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17UTSL
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17XTQM
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17GDFL
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17JIZK
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17DVHO
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17XNVD
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17WVRY
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17BBUH
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17PTBU
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17QERT
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17NLEM
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17NMXR
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17KELA
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17IJIZ
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17CFAW
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17FHJA
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17LNDZ
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17YAPI
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17THDO
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17BWZV
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17XIAB
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17DMHR
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17WOOZ
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17CGXX
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17PXLJ
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17FYAO
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17CUHA
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17LZHW
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17BAQE
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17BTOA
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17VBNA
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17MEVB
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17QKSY
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17IHMI
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17HYWO
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17IFOP
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17KMWH
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17MPAZ
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17GDOX
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17ORZP
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17AJRC
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17LNEJ
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17FJXA
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17HXFP
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : FO17KYDB
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : LT15BONG
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : LT15HVNQ
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : LT15ZQWI
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : LT15GGTI
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : LT15FDBB
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : LT15XQZU
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : LT15KSCT
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : LT15VJMG
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : LT16RHLN
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : LT16OADC
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : LT16YGDC
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : LT16OYOG
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : LT16RLTQ
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : LT16YNIL
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : LT16OIBN
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : LT16LVZE
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : LT17DJRT
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : LT17XCJU
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : LT17AWAE
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : LT17TSRW
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : LT17SGGZ
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : SC15LDQQ
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : SC15VBAJ
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : SC15MDJT
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : SC15GHGW
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : SC15EVXP
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : SC15ARZL
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : SC15JRBS
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : SC16MHIA
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : SC16JLQC
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : SC16RNWX
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : SC16PBZM
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : SC16GHPE
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : SC16QCEO
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : SC17FUXH
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : SC17NDZA
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : SC17HNLU
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : SC17YDKP
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : SC17XVLI
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : SC17FJXE
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : SC17UKQL
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : EI15QFGT
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : EI16DPAT
+This student has an empty preference list or none of his courses are within his max credit limit. He is not removed for the purpose of statistics : EI16COBG
