@@ -1,11 +1,11 @@
 class Resident:
-    def __init__(self, name):
+    def __init__(self, name, hq=0):
         self.name = name
         self.pref = []
         self.matched = None
         self.prefPtr = 0
         self.lq = 0
-        self.hq = 0
+        self.hq = hq
         self.classes = []
 
     def getIndex(self):
@@ -66,4 +66,4 @@ class Classification:
             if(i != len(self.class_list)-1):
                 print e + ' ,',
             else:
-                print e + ' ): ' + str(self.cap) +'}',
+                print e + ' ) - ' + str(self.cap) +'}',

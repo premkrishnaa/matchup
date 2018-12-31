@@ -135,6 +135,96 @@ class Graph:
     def getTotalResidents(self):
         return len(self.residents)
 
+def createGraphWithClasses(path):
+    g = Graph()
+    choice = 0
+    f = open(path, "r")
+    for line in f.readlines():
+        line = line.strip()
+        if(len(line) == 0 or line == '@End'):
+            continue
+        if(line == '@PartitionA'):
+            choice = 1
+            continue
+        if(line == '@PartitionB'):
+            choice = 2
+            continue
+        if(line == '@PreferenceListsA'):
+            choice = 3
+            continue
+        if(line == '@PreferenceListsB'):
+            choice = 4
+            continue
+        if(line == '@ClassificationA'):
+            choice = 5
+            continue
+
+        if(choice == 1):
+            line_trim = line.replace(' ', '')[:-2]
+            line_split = line_trim.split('),')
+            for res in line_split:
+                res_split = res.split('(')
+                r = res_split[0]
+                quotas = res_split[1].split(',')
+                lq = 0
+                hq = int(quotas[0])
+                g.residents.append(Resident(r, hq))
+
+        if(choice == 2):
+            line_trim = line.replace(' ', '')[:-2]
+            line_split = line_trim.split('),')
+            for hosp in line_split:
+                hosp_split = hosp.split('(')
+                h = hosp_split[0]
+                quotas = hosp_split[1].split(',')
+                lq = 0
+                hq = int(quotas[0])
+                g.hospitals.append(Hospital(h, lq, hq))
+
+        if(choice == 3):
+            line_trim = line.replace(' ', '')[:-1]
+            temp_split = line_trim.split(':')
+            res = temp_split[0]
+            r_ind = res[1:]
+            pref_list = temp_split[1].split(',')
+            r = g.getResident(res)
+            for h in pref_list:
+                h_ind = h[1:]
+                r.pref.append(g.getHospital(h))
+                g.edges.append(Edge(r_ind, h_ind))
+
+        if(choice == 4):
+            line_trim = line.replace(' ', '')[:-1]
+            temp_split = line_trim.split(':')
+            hosp = temp_split[0]
+            pref_list = temp_split[1].split(',')
+            h = g.getHospital(hosp)
+            for r in pref_list:
+                if(r != ''):
+                    h.pref.append(g.getResident(r))
+
+        if(choice == 5):
+            line_trim = line.replace(' ', '')[:-1]
+            temp_split = line_trim.split(':')
+            r = g.getResident(temp_split[0])
+            classes_str = temp_split[1]
+            classes = classes_str.split('}')[:-1]
+            for i in range(len(classes)):
+                if(i == 0):
+                    classes[i] = classes[i][1:]
+                else:
+                    classes[i] = classes[i][2:]
+            for c in classes:
+                class_split = c.split('-')
+                class_members = class_split[0][1:-1].split(',')
+                class_cap = int(class_split[1])
+                temp_class = Classification()
+                temp_class.class_list = class_members
+                temp_class.cap = class_cap
+                r.classes.append(temp_class)
+
+    f.close()
+    return g
 
 def createGraph(path, hr=0):
     g = Graph()
